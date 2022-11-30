@@ -15,7 +15,7 @@ body {
     margin: 0;
     line-height: normal;
     font-weight: 300;
-    /* font-family: ; */
+    font-family: 'Open Sans', sans-serif;
 }
 
 ul {
@@ -64,7 +64,7 @@ h3 {
 
 h4 {
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 h5 {
